@@ -1,13 +1,13 @@
 body{
-    background-color: aquamarine;
+    background-color: rgb(170, 224, 255);
     display: flex;
     justify-content: center;
     align-items: center;
     padding-top: 30px;
 }
 .card{
-    background-color: whitesmoke;
-    box-shadow: inset 5px 5px 12px #fff, 5px 5px 12px rgb(0,0,0,0.16);
+    background-color: rgb(255, 255, 255);
+    box-shadow: inset 5px 5px 12px #bab9ba, 5px 5px 12px rgb(0,0,0,0.16);
     width: 300px;
     height: 500px;
     border-radius: 20px;
@@ -60,12 +60,12 @@ body{
     font-size: 15px;
     border-radius: 100%;
     cursor: pointer;
-    color: tomato;
+    color: rgb(255, 71, 71);
 }
 .tombol-kanan{
     width: 30%;
-    background-color: rgb(222, 222, 158);
-    box-shadow: inset 5px 5px 12px rgb(0,0,0,0.16), 5px 5px 12px #e6e3c3;
+    background-color: rgb(245, 46, 46);
+    box-shadow: inset 5px 5px 12px rgb(0,0,0,0.16), 5px 5px 12px #830202;
     border-radius: 20px;
     height: 100%;
     display: flex;
